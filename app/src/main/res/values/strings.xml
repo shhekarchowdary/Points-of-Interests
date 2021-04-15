@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Points of Interests</string>
+    <string name="choose_country">Choose Country</string>
+    <string name="choose_interest">Choose Interest</string>
+    <string name="image1">Image 1</string>
+    <string name="image2">image2</string>
+    <string name="back"><![CDATA[<<back]]></string>
+</resources>
